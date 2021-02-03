@@ -1,0 +1,5 @@
+colored
+bs4
+requests
+python-pptx
+pillow
