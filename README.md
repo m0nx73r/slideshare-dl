@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/noobmonxter/slideshare-dl"><img src="https://i.ibb.co/WBf7grR/slideshare-dl-1.png
-" alt="Logo"></a>
+  <a href="https://github.com/noobmonxter/slideshare-dl"><img src="https://i.ibb.co/WBf7grR/slideshare-dl-1.png" alt="Logo"></a>
   <br>
   SlideShare-dl
   <br>
